@@ -13,6 +13,7 @@ targeted countries are
 - Germany
 - Italy
 - South Korea
+- Malaysia
 
 ## Data
 
@@ -41,8 +42,13 @@ values at the same time which is not incremental.
 
 ## Notebook content
 
+There are 2 notebooks in this project, one for the first 4 countries and another
+separate notebook for Malaysia data analysis, the Malaysia notebook answers
+questions of different types of analysis (descriptive, diagnostic, predictive
+and prescriptive).
+
 - Data Exploration
-- Visual and Descriptive Analysis for target countries
+- Visual and Descriptive Analysis
 - Modeling
 - Analysis of Effectiveness of mandated lockdown
 - Conclusion
