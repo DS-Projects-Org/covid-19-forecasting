@@ -17,9 +17,12 @@ targeted countries are
 
 ## Data
 
-The dataset is from our world in data
+the first notebook uses data from our world in data
 [GitHub repository](https://github.com/owid/covid-19-data/tree/master/public/data),
-it contains daily cases for all countries
+it contains daily cases for all countries.
+
+Malaysia specific notebook uses data from
+[CSSEGISandData](https://github.com/CSSEGISandData/COVID-19).
 
 ## Models
 
